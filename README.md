@@ -18,7 +18,7 @@
 要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统<br />
 使用 root 用户输入下面命令安装或卸载<br />
 ```bash
-bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/klpool/minerproxy303Pro/main/install.sh)
 ```
 ### 输入命令回车之后一直卡住不动，换这种办法
 ubuntu/debian 系统安装
