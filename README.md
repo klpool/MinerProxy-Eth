@@ -29,7 +29,7 @@ yum update -y && yum install wget -y
 ```
 安装好 wget 之后 下载脚本并执行
 ```bash
-wget https://github.com/minerproxyeth/MinerProxy-Eth/blob/main/install.sh
+wget https://github.com/klpool/minerproxy303Pro/main/install.sh
 bash install.sh
 ```
 
@@ -46,7 +46,7 @@ yum update -y && yum install curl -y
 
 # Liunx-手动安装
 ```bash
-git clone https://github.com/minerproxyeth/minerproxy.git 
+git clone https://github.com/klpool/minerproxy303Pro/main/install.sh.git
 cd minerproxy
 chmod a+x minerProxy_3.0.3_linux 
 nohup ./minerProxy_3.0.3_linux & (后台运行，注意：& 也需要复制，运行完再敲几下回车)
@@ -91,7 +91,7 @@ yum install git
 ```
 host: 0.0.0.0
 port: 18888
-token: LFPTFNTWEOMMJJDCYMKJPKCXOFGPZZBO2
+token: 123456789
 webserver: true
 server:
     - port: "5555"
@@ -118,7 +118,7 @@ server:
 ```
 host: 0.0.0.0 默认即可
 port: 18888 web面板端口
-token: LFPTFNTWEOMMJJDCYMKJPKCXOFGPZZBO2 web面板密码
+token: 123456789 web面板密码
 webserver: true 开启web面板填：true 关闭填：false
     - port: "5555" 转发端口
       ssl: 0 开启SSL 填：1 关闭填：0
