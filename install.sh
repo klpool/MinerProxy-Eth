@@ -194,7 +194,7 @@ while :; do
     echo
     echo "-------- MinerProxy 一键安装脚本 by:MinerProxy--------"
     echo "github下载地址:https://github.com/klpool/MinerProxy-Eth"
-    echo "官方电报群:https://t.me/MinerProxy_eth "
+    echo "作者QQ：9623739 "
     echo
     echo " 1. 安装MinerProxy"
     echo
